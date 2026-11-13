@@ -42,5 +42,6 @@
     "vitest": "^2.1.8"
   },
   "description": "Agente de IA que atende clientes de restaurante: monta o pedido, calcula a entrega, respeita alergias e passa para humano na hora certa.",
-  "license": "MIT"
+  "license": "UNLICENSED",
+  "author": "João Guilherme Gomes de Araújo"
 }
